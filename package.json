@@ -1,0 +1,31 @@
+{
+  "name": "string-compare",
+  "version": "1.0.0",
+  "description": "project to test string compare algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francorosatti/string-compare.git"
+  },
+  "keywords": [
+    "string",
+    "compare"
+  ],
+  "author": "Franco Rosatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francorosatti/string-compare/issues"
+  },
+  "homepage": "https://github.com/francorosatti/string-compare#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.9.1",
+    "eslint": "^9.9.1",
+    "globals": "^15.9.0",
+    "typescript-eslint": "^8.3.0"
+  }
+}
